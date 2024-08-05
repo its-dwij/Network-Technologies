@@ -1,1 +1,7 @@
-This folder will contain topologies created in Cisco Packet Maker
+This folder will contain topologies created in Cisco Packet Maker.\
+
+Switch: A switch is basically a hardware device which is reponsible for channeling the data that is coming into the various input ports to 
+        particular input port which will furhter take the data to the desired destination. It is thus used for the transfer of the data 
+        packets among various network devices such as routers, servers, etc. It is actually a data link layer device (layer 2) which ensures 
+        that the data packets are being forwarded are free and accurate. The switch make use of the MAC address in order to forward the data to 
+        the data link layer.
